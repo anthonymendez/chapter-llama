@@ -10,6 +10,7 @@ hydra-colorlog==1.2.0
 # hydra-optuna-sweeper==1.2.0
 
 # --------- llama-recipes --------- #
+# I had to use `pip install "unstructured[pdf]" --upgrade` to install llama-cookbook
 llama-cookbook
 
 # --------- loggers --------- #
