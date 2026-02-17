@@ -18,3 +18,4 @@ sudo bash ./tools/download/captions.sh
 ```bash
 sudo bash ./tools/download/docs.sh full
 ```
+Now it should be ready for usage. Pending on approval for meta.
