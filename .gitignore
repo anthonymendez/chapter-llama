@@ -27,3 +27,4 @@ models--*
 .gradio/
 
 input_videos/
+output_chapters/
